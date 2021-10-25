@@ -5,7 +5,7 @@ import time
 def findName():
     files = os.listdir('.')
     for f in files:
-        if f.find('.m4a') != -1:
+        if f.find('.m4a') != -1 or f.find('.mp3') != -1 or f.find('.mp3') != -1:
             name = f
     return name
 
