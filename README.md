@@ -3,7 +3,7 @@ I was inspired by BNW. I realize that my moral values are uncertain. Some times 
 
 ## What this stupid thing will become? (Make sure you have Python 3.9)
 1. Download the whole repository
-2. pip install playsound
+2. pip install -r requirements.txt
 3. Replace the audio file "test.m4a" by your own by dragging the audio file you want to learn into the repository (or you can test the program with "test.m4a")
 4. Run the script in terminal by python3 main.py
 5. Set how much time later you want it to start repeting
