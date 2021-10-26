@@ -31,6 +31,6 @@ if st == "yes":
     time.sleep(tim)
     for i in range(repete):
         playsound(soundtrack)
-        time.sleep(0.1)
+        #time.sleep(0.1)
 else:
     print("bye")
